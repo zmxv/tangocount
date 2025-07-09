@@ -5,7 +5,7 @@ A C program to calculate the number of valid [LinkedIn Tango](https://linkedin.c
 ## Building
 
 ```bash
-gcc -Ofast tangocount.c -o tangocount
+make run
 ```
 
 ## Results
